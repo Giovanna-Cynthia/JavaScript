@@ -5,7 +5,7 @@ let idadeAluno = 18;
 let valorProduto = 5.35;
 
 // variável de texto, String
-let nomeAluno = "Pedro Henrique";
+let nomeAluno = "Giovanna Cynthia";
 
 // Booleano
 let casado = true;
