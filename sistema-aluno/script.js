@@ -19,8 +19,7 @@ button.addEventListener("click", function(event) {
 
     event.preventDefault();
     const inputNotaValue = inputNota.value;
-    //console.log(inputNota.value);
-
+    
     //Validação de formulario
     if(inputNotaValue === '' ) {
         alert("Campo obrigatório!");

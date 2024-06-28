@@ -1,16 +1,35 @@
-/**{
-    padding: 0;
-    margin: 0;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+.container{
+    max-width: 400px;
+    border: 1px solid black;
+    margin: 80px auto;
+    text-align: center;
+    border-radius: 5px;
+    background-color:  rgb(181, 181, 181);
     color: white;
 }
-.container{
-    text-align: center;
-    background-color: rgba(163, 163, 163, 0.474);
-    padding: 10px;
-    display: block;
-    align-items: center;
+
+form{
+    display: flex;
     justify-content: center;
-    width: 500px;
-    height: 300px;
-}*/
+    padding: 20px;
+}
+
+.form-control input{
+    width: 100%;
+    max-width: 250px;
+    /*Efeito navegador*/
+    outline: none;
+}
+
+button{
+    height: 25px;
+    margin-left: 10px;
+    background-color: rgb(100, 100, 223);
+    color: white;
+    /*para colocar a maozinha*/
+    cursor: pointer;
+    border-radius: 5px;
+}
+input{
+    height: 20px;
+}
