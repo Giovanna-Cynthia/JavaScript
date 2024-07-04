@@ -1,0 +1,48 @@
+body {
+    background-color: #f0f0f0; /* Cor de fundo cinza claro */
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    height: 100vh; /* Faz com que o body ocupe toda a altura da viewport */
+    margin: 0; /* Remove margens padrão */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container {
+    background-color: white; /* Cor de fundo branca para o container */
+    padding: 20px;
+    border-radius: 10px; /* Borda arredondada */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    text-align: center; /* Alinha o conteúdo no centro */
+    width: 400px; /* Largura fixa do container */
+}
+
+h1 {
+    margin-bottom: 20px; /* Espaçamento abaixo do título */
+}
+
+input[type="text"] {
+    padding: 8px;
+    width: 200px; /* Largura do input */
+    margin-bottom: 10px; /* Espaçamento abaixo do input */
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    background-color: #4CAF50; /* Cor de fundo verde */
+    color: white;
+    border-radius: 4px;
+    justify-content: space-between;
+}
+
+button:hover {
+    background-color: #45a049; /* Cor de fundo verde mais escura no hover */
+}
+
+h2 {
+    margin-top: 20px; /* Espaçamento acima do resultado */
+}
