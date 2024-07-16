@@ -1,0 +1,34 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "nome": "Giovanna Cynthia",
+      "email": "giovannac@gmail.com"
+    },
+    {
+      "id": "2",
+      "nome": "Raphael Torres",
+      "email": "raphaelt@gmail.com"
+    },
+    {
+      "id": "3",
+      "nome": "Amanda Lara",
+      "email": "amandal@gmail.com"
+    },
+    {
+      "id": "4",
+      "nome": "Bruno Lima",
+      "email": "brunol@gmail.com"
+    },
+    {
+      "id": "a677",
+      "nome": "giovanna",
+      "email": "giovanna@gmail.com"
+    },
+    {
+      "id": "fe0a",
+      "nome": "joel",
+      "email": "joel@gmail.com"
+    }
+  ]
+}
